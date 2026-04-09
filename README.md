@@ -32,6 +32,17 @@ This project demonstrates an AI-based autonomous navigation system using the A* 
 5. Generate shortest path
 6. Simulate robot movement
 
+## 📊 Algorithm Explanation
+
+The project uses the A* (A-star) algorithm for path planning.
+
+f(n) = g(n) + h(n)
+
+Where:
+- g(n) = cost from start node
+- h(n) = heuristic (estimated distance to goal)
+
+This helps in finding the shortest and most efficient path.
 
 ▶️ How to Run
 
@@ -54,9 +65,8 @@ python main.py
 ![Simulation](outputs/image/simulation.png)
 
 
-🎥 Demo Video
-
-![Watch Demo](outputs/video/project1.mp4)
+🎥**Click below to watch simulation:**
+[▶️ Watch Demo](outputs/video/project1.mp4)
 
 
 🚀 Future Improvements
