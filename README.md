@@ -1,10 +1,10 @@
-🤖 AI-Based Autonomous Navigation System
+AI-Based Autonomous
+ Navigation System
 
 📌 Overview
 
 This project demonstrates an AI-based autonomous navigation system using the A* path planning algorithm. The system enables a robot to navigate from a start position to a goal while avoiding obstacles in a simulated environment.
 
----
 
 🎯 Features
 
@@ -14,7 +14,6 @@ This project demonstrates an AI-based autonomous navigation system using the A* 
 - Real-time robot simulation using Pygame
 - Visualization using Matplotlib
 
----
 
 🛠️ Tech Stack
 
@@ -23,7 +22,6 @@ This project demonstrates an AI-based autonomous navigation system using the A* 
 - Matplotlib
 - Pygame
 
----
 
 🧠 How It Works
 
@@ -34,36 +32,32 @@ This project demonstrates an AI-based autonomous navigation system using the A* 
 5. Generate shortest path
 6. Simulate robot movement
 
----
 
 ▶️ How to Run
 
 pip install -r requirements.txt
 python main.py
 
----
 
 📸 Output Screenshots
 
 🔹 Grid View
 
-"Grid" (outputs/images/grid.png)
+![Grid](outputs/image/grid.png)
 
 🔹 Path Planning
 
-"Path" (outputs/images/path.png)
+![Path](outputs/image/path.png)
 
 🔹 Simulation
 
-"Simulation" (outputs/images/simulation.png)
+![Simulation](outputs/image/simulation.png)
 
----
 
 🎥 Demo Video
 
-"video" (outputs/videos/demo.mp4)
+![Watch Demo](outputs/video/project1.mp4)
 
----
 
 🚀 Future Improvements
 
@@ -71,7 +65,6 @@ python main.py
 - CARLA simulator integration
 - Reinforcement learning
 
----
 
 📚 Learning Outcomes
 
@@ -79,7 +72,6 @@ python main.py
 - Simulation design
 - Python project structuring
 
----
 
 👨‍💻 Author
 
